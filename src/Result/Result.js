@@ -1,6 +1,6 @@
 import React from 'react';
 import './Result.css';
-import {useState} from 'react';
+
 
 const Result = (props) =>{
 
