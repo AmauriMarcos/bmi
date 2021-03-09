@@ -1,0 +1,11 @@
+.result{
+    font-size: 9.5rem;
+    font-family: 'Montserrat', sans-serif;
+    top: 55%;
+    right: 8.35%;
+    position: absolute;
+    font-weight: 100;
+    z-index: 5;
+    color: ivory;
+    opacity: 1;
+}
